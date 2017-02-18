@@ -3,18 +3,16 @@
 Tree is a recursive directory listing program that produces 
 a depth indented listing of files residing within specified directories. 
 
-It has following options:
--a            All files are listed (including hidden files)
--d            List directories only
--o filename   Output to file instead of stdout
--f            Print the full path prefix for each file
---noreport    Turn off file/directory count at end of tree listing
-
--Q            Quote filenames with double quotes
-
--r            Sort files in reverse alphanumeric order
--U            Leave files unsorted
---help Print usage and this help message and exit
+It has following options: <br />  
+-a            All files are listed (including hidden files)<br />  
+-d            List directories only <br />  
+-o filename   Output to file instead of stdout <br />  
+-f            Print the full path prefix for each file <br />  
+--noreport    Turn off file/directory count at end of tree listing <br />  
+-Q            Quote filenames with double quotes <br />  
+-r            Sort files in reverse alphanumeric order <br />  
+-U            Leave files unsorted <br />  
+--help        Print usage and this help message and exit <br />  
 
 ## Getting Started
 
