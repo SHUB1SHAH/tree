@@ -3,8 +3,8 @@
 Tree is a recursive directory listing program that produces 
 a depth indented listing of files residing within specified directories. 
 
-It has following options: <br />  
--a            All files are listed (including hidden files)<br />  
+It has following options: <br/>  
+-a            All files are listed (including hidden files)<br/>  
 -d            List directories only <br />  
 -o filename   Output to file instead of stdout <br />  
 -f            Print the full path prefix for each file <br />  
